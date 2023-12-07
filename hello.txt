@@ -1,3 +1,2 @@
 Hello from pop-os
-This is another line
 
